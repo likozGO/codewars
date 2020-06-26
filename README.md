@@ -9,4 +9,4 @@ Simply put, kata is a practical task. There are several levels of difficulty: fr
 👤 (Link to my profile): https://www.codewars.com/users/likozGO  
 
 This is my Codewarrior Profile Badge, current status:   
-![My Codewarrior Profile Badge](https://www.codewars.com/users/likozGO/badges/large)
+<span style="display:block;text-align:center">![My Codewarrior Profile Badge](https://www.codewars.com/users/likozGO/badges/large)</span>
