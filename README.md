@@ -1,10 +1,6 @@
-# Product Name
-> Short blurb about what your product does.
+# My codewars practice
+> Playing on codewars with different tasks
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
+## What is kata?
+>> Simply put, kata is a practical task. There are several levels of difficulty: from 8 kyu to 1 kyu. And the lower kyu, the more difficult the task.
